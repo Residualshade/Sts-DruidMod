@@ -1,0 +1,9 @@
+{
+  "druid:AnimalCompanion" : {
+    "NAME": "Animal Companion"
+    ,"FLAVOR": "Whos a good boy?"
+    ,"DESCRIPTIONS": [
+      "Gives you an animal companion that will fight by your side."
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "druid:FillerRareAttack": {
+    "NAME":"Filler Attack",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "druid:FillerRareSkill": {
+    "NAME":"Filler Skill",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "druid:FillerRarePower": {
+    "NAME":"Filler Power",
+    "DESCRIPTION": "N/A"
+  },
+  "druid:FillerUncommonAttack": {
+    "NAME":"Filler Attack",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "druid:FillerUncommonSkill": {
+    "NAME":"Filler Skill",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "druid:FillerUncommonPower": {
+    "NAME":"Filler Power",
+    "DESCRIPTION": "N/A"
+  },
+  "druid:FillerCommonAttack": {
+    "NAME":"Filler Attack",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "druid:FillerCommonSkill": {
+    "NAME":"Filler Skill",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "druid:FillerCommonPower": {
+    "NAME":"Filler Power",
+    "DESCRIPTION": "N/A"
+  },
+  "druid:StrikeDruid": {
+    "NAME":"Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "druid:DefendDruid": {
+    "NAME":"Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "druid:FierceCompanion": {
+    "NAME":"Fierce Companion",
+    "DESCRIPTION": "Apply Mark 1. NL Apply Vulnerable !M!."
+  },
+  "druid:ProtectiveCompanion": {
+    "NAME":"Protective Companion",
+    "DESCRIPTION": "Your animal companion gains !M! Block. Enemy attacks your minion this turn."
+  }
+}

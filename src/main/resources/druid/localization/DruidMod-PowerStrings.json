@@ -1,0 +1,10 @@
+{
+  "druid:MarkPower": {
+    "NAME": "Marked",
+    "DESCRIPTIONS": [
+      "Your Animal Companion will attack this monster for #b",
+      " turn.",
+      " turns."
+    ]
+  }
+}
